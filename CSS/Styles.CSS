@@ -1,0 +1,30 @@
+body {
+  background-color:  pink;
+  color: white;
+  font-family: arial;
+  border: solid 3px;
+  margin: 5px;
+}
+
+img {
+  background-color: orange;
+  margin: 25px;
+  padding: 30px;
+}
+
+.a{
+  color: purple;
+}
+
+#b{
+  color: white;
+}
+
+div{
+  padding: 25px;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
